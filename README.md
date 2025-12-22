@@ -46,7 +46,7 @@ Soy un desarrollador que combina creatividad técnica con pensamiento lógico. M
           <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github" alt="Ver Proyecto"/>
         </a>
         <p><strong>Asistente Virtual con MCP Server</strong></p>
-        <p>Sistema de automatización inteligente que integra WhatsApp API y Google Calendar. Procesamiento de lenguaje natural para gestionar citas automáticamente.</p>
+        <p>Sistema de automatización inteligente que integra Telegram y Google Calendar. Procesamiento de lenguaje natural para gestionar citas automáticamente.</p>
         <p>
           <img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white"/>
           <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
