@@ -147,46 +147,5 @@ Soy un desarrollador que combina creatividad técnica con pensamiento lógico. M
 
 ---
 
-## 🌟 Lo Que Me Hace Diferente
-
-mis_fortalezas = {
-"Autodidacta": "Aprendo tecnologías nuevas por mi cuenta constantemente",
-"Pensamiento_Lógico": "Descompongo problemas complejos en soluciones simples",
-"Trabajo_en_Equipo": "Experiencia colaborativa con metodologías ágiles",
-"Automatización": "Si puedo automatizarlo, lo haré. Amo la eficiencia",
-"Adaptabilidad": "Me adapto rápido a nuevas tecnologías y entornos"
-}
-
-for fortaleza, descripcion in mis_fortalezas.items():
-print(f"✓ {fortaleza}: {descripcion}")mis_fortalezas = {
-"Autodidacta": "Aprendo tecnologías nuevas por mi cuenta constantemente",
-"Pensamiento_Lógico": "Descompongo problemas complejos en soluciones simples",
-"Trabajo_en_Equipo": "Experiencia colaborativa con metodologías ágiles",
-"Automatización": "Si puedo automatizarlo, lo haré. Amo la eficiencia",
-"Adaptabilidad": "Me adapto rápido a nuevas tecnologías y entornos"
-}
-
-for fortaleza, descripcion in mis_fortalezas.items():
-print(f"✓ {fortaleza}: {descripcion}")
-
-
----
-
-## 📫 Hablemos
-
-<div align="center">
-
-¿Tienes un proyecto interesante? ¿Buscas un desarrollador apasionado por la tecnología?
-
-**¡Conectemos!**
-
-<a href="https://www.linkedin.com/in/santiago-villegas-arana-263323278/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:villegas.santiago@correounivalle.edu.co">
-  <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=Rysaber&label=Visitas&color=0e75b6&style=flat" alt="Profile views" />
