@@ -15,12 +15,19 @@
 ## 🎯 ¿Quién Soy?
 
 const santiago = {
+
 ubicacion: "Tuluá, Valle del Cauca 🇨🇴",
+
 educacion: "Tecnólogo en Desarrollo de Software (2025)",
+
 universidad: "Universidad del Valle",
+
 enfoque: ["Automatización Inteligente", "Arquitecturas Escalables", "Desarrollo Full-Stack"],
+
 buscando: "Oportunidades como Desarrollador Junior",
+
 filosofia: "Si lo haces más de dos veces, automatízalo 🤖"
+
 };
 
 
