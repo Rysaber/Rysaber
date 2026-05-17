@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Santiago Villegas Arana
+#  Santiago Villegas Arana
 
 ### Tecnólogo en Desarrollo de Software | Automatización & Microservicios
 
