@@ -132,19 +132,6 @@ Soy un desarrollador que combina creatividad técnica con pensamiento lógico. M
 
 </div>
 
----
-
-## 📈 Actividad en GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rysaber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rysaber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 
 <img src="https://komarev.com/ghpvc/?username=Rysaber&label=Visitas&color=0e75b6&style=flat" alt="Profile views" />
